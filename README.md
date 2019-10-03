@@ -1,6 +1,8 @@
 # AndroidEditTextDemo
 
-[CSDN博客](https://mailiang.blog.csdn.net/) : <https://mailiang.blog.csdn.net>
+
+[CSDN博客](https://mailiang.blog.csdn.net/article/details/102043717) 
+
 
 当跳转到带有EditText的界面后，App会自动弹出输入法，严重影响了用户体验。因此，我们有时候需要取消EditText的默认聚焦。
 
